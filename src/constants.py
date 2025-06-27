@@ -1,0 +1,9 @@
+OPENAI_API_KEY = ""
+LLM_MODEL_NAME = "gpt-4-0125-preview"
+LOCAL_LLM = "tinyllama"
+USER = "root"
+PASSWORD = "bellevue_Elon1"
+HOST = "localhost"
+DATABASE = "ecommerce"
+PORT = 3306
+DRIVER = "MySQL+ODBC+9.3+ANSI+Driver"
